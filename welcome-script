@@ -1,0 +1,20 @@
+#!/bin/bash
+
+cpy=Gracetune
+cpy2=Services
+owner=Pio
+
+echo "please enter your name"
+read name
+echo "Hello $name, welcome to $cpy $cpy2"
+
+echo "We have got a lot of great logistics services at $cpy"
+echo "How can I help you today"
+
+echo "please enter your prefered language"
+read language
+echo "Great, we will serve you in $language today"
+
+echo "signed by $owner"
+
+date
